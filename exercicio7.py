@@ -71,3 +71,5 @@ for classe in pclass:
 
 # (d) Com base apenas nessas tabelas, qual regra de uma única condição você proporia? Qual
 # acurácia ela atinge no conjunto completo?
+
+
